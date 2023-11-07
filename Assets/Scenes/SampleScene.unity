@@ -224,9 +224,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1860439976}
+  - component: {fileID: 1860439977}
   - component: {fileID: 1860439979}
   - component: {fileID: 1860439978}
-  - component: {fileID: 1860439977}
   m_Layer: 0
   m_Name: Polygon
   m_TagString: Untagged
